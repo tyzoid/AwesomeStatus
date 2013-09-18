@@ -1,5 +1,7 @@
-=== AwesomeStatus ===
-==== v0.5 ====
+AwesomeStatus v0.5a
+====
+License
+----
 This software is licensed by the MIT License:
 Copyright (C) 2013, Tyler "Tyzoid" Dence.
 
